@@ -1,0 +1,12 @@
+ZED TEXTURE TOOL
+
+README
+
+OVERVIEW
+
+The ZED Texture Tool is intended to create compact textures with metadata ready
+for use by the ZED library.  Image data is imported into the tool (PNG,TGA,JPG)
+which can be used to add to a cubemap face, 3D texture layer, as part of a
+texture atlas, etc. with the option of generating mip maps and different
+compression schemes.
+
